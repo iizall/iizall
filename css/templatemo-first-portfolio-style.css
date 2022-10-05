@@ -253,7 +253,7 @@ strong {
   border-width: 2px;
   border-style: solid;
   border-color: var(--white-color);
-  color: var(--white-color);
+  color: var(--secondary-color);
   padding: 8px 22px;
 }
 
